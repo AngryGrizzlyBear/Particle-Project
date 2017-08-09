@@ -2,6 +2,19 @@
   "particles":{
     "number":{
       "value":100
+    },
+    "color":{
+      "value":"#fff"
+    },
+      "shape":{
+        "type":"circle",
+         "stroke":{
+          "width":1,
+          "color":"#ccc"
+      }
+    },
+    "opacity":{
+      "value":0.5
     }
   }
 }
