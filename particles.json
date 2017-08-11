@@ -28,6 +28,11 @@
       "enable":false,
       "speed":10
       }
+    },
+    "line_linked":{
+      "enable": true,
+      "distance":120,
+      "color":"#000"
     }
   }
 }
