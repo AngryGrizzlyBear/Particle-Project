@@ -49,13 +49,18 @@
       "mode":"repulse"
       },
       "onclick":{
-
+        "enable":true,
+        "mode":"bubble"
       }
     },
     "modes":{
       "repulse":{
         "distance":50,
           "duration":0.4
+      },
+      "bubble":{
+        "distance":100,
+        "size":10
       }
     }
   }
